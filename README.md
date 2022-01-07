@@ -23,3 +23,7 @@ How to access Weather Dashboard:
 
 Use the following website URL to access the Weather Dashboard: https://srahman9.github.io/weather-dashboard/
 Use the following GitHub URL to access the Weather Dashboard repo: https://git@github.com:srahman9/weather-dashboard.git
+
+Picture of Deployed application
+
+(C:\Users\Zak\Desktop\projects\weather-dashboard\image\weather-dashboard.PNG)
