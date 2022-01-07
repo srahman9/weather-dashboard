@@ -22,7 +22,7 @@ The 5-days weather forecast provides the following information for each day:
 How to access Weather Dashboard:
 
 Use the following website URL to access the Weather Dashboard: https://srahman9.github.io/weather-dashboard/
-Use the following GitHub URL to access the Weather Dashboard repo: https://git@github.com:srahman9/weather-dashboard.git
+Use the following GitHub URL to access the Weather Dashboard repo: https://github.com/srahman9/weather-dashboard.git
 
 Picture of Deployed application
 
