@@ -26,4 +26,4 @@ Use the following GitHub URL to access the Weather Dashboard repo: https://git@g
 
 Picture of Deployed application
 
-[weather-dashboard](C:\Users\Zak\Desktop\projects\weather-dashboard\image\weather-dashboard.PNG)
+[](weather-dashboard.PNG)
